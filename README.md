@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sunil 
+<div align="center">
+
+# 👋 Hi, I'm Sunil
 
 ### 💻 Full Stack .NET Developer
 
 **C# • ASP.NET Core • Web API • SQL Server • JavaScript • jQuery • AJAX • React**
-
-<div align="center">
 
 <a href="https://github.com/sunilkumar71">
 <img src="https://img.shields.io/badge/GitHub-sunilkumar71-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -112,13 +112,6 @@ Agile / Scrum
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sunilkumar71&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumar71&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
@@ -150,8 +143,16 @@ System Design • Data Structures & Algorithms • Backend Development • SQL &
 ---
 
 ## 🤝 Connect With Me
-🤝 Connect With Me
-<div align="center"> <a href="mailto:sunilrth071@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/sunilrth71"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/sunilkumar71"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/u/sunilkumar_71/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.geeksforgeeks.org/profile/sunilrth?tab=activity"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </div> <div align="center">
+
+<div align="center">
+<a href="mailto:sunilrth071@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/sunilrth71"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/sunilkumar71"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://leetcode.com/u/sunilkumar_71/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
+<a href="https://www.geeksforgeeks.org/profile/sunilrth?tab=activity"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
+</div>
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
