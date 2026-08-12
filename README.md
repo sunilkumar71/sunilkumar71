@@ -115,7 +115,7 @@ Agile / Scrum
 
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/sunilrth71)
 
-💻 **GitHub:** [@sunilkumar_71](https://github.com/sunilkumar_71)
+💻 **GitHub:** [@sunilkumar71](https://github.com/sunilkumar71)
 
 🧩 **GeeksforGeeks:** [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/profile/sunilrth?tab=activity)
 
