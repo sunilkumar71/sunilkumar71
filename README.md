@@ -113,7 +113,7 @@ Agile / Scrum
 
 📱 **Phone:** +91 9758204516
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](linkedin.com/in/sunilrth71)
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/sunilrth71)
 
 💻 **GitHub:** [@sunilkumar_71](https://github.com/sunilkumar_71)
 
